@@ -23,8 +23,3 @@ O card possui:
 - Filtro roxo aplicado sobre a imagem;
 - Fundo escuro;
 - Cantos arredondados.
-├── index.html
-├── style.css
-├── preview.jpg
-├── README.md
-└── style-guide.md

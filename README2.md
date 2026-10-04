@@ -9,8 +9,6 @@ O projeto apresenta um card dividido em duas partes:
 - **Lado esquerdo:** título, descrição e estatísticas.
 - **Lado direito:** imagem com um filtro roxo sobreposto.
 
-O objetivo foi praticar conceitos básicos de desenvolvimento web, principalmente a criação de layouts utilizando HTML e CSS.
-
 ## 🎨 Estrutura do projeto
 
 O card possui:
@@ -25,22 +23,6 @@ O card possui:
 - Filtro roxo aplicado sobre a imagem;
 - Fundo escuro;
 - Cantos arredondados.
-
-## 🛠️ Tecnologias utilizadas
-
-- HTML5
-- CSS3
-
-## 📁 Estrutura dos arquivos
-
-```text
-projeto/
-│
-├── images/
-│   ├── favicon-32x32.png
-│   ├── image-header-desktop.jpg
-│   └── image-header-mobile.jpg
-│
 ├── index.html
 ├── style.css
 ├── preview.jpg
